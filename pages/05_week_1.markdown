@@ -9,4 +9,21 @@ permalink: /week-1/
 <table class="c3"><tbody><tr class="c0"><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c4">&#1055;&#1086;&#1095;&#1072;&#1090;&#1086;&#1082; &#1090;&#1080;&#1078;&#1085;&#1103;</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c4">&#1050;&#1110;&#1085;&#1077;&#1094;&#1100; &#1090;&#1080;&#1078;&#1085;&#1103;</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c8 c4">&#1057;&#1090;&#1091;&#1076;&#1077;&#1085;&#1090;</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c8 c4">&#1047;&#1072;&#1076;&#1072;&#1095;&#1110;</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c4 c8">&#1054;&#1094;&#1110;&#1085;&#1082;&#1072; &#1079;&#1072; &#1090;&#1080;&#1078;&#1076;&#1077;&#1085;&#1100; </span></p></td></tr><tr class="c0"><td class="c5" colspan="1" rowspan="3"><p class="c9"><span class="c10">04.04.2020</span></p></td><td class="c5" colspan="1" rowspan="3"><p class="c9"><span class="c10">10.04.2020</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c6">&#1055;&#1072;&#1088;&#1072;&#1097;&#1077;&#1085;&#1082;&#1086; &#1042;.</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c6">&#1056;&#1086;&#1079;&#1088;&#1086;&#1073;&#1082;&#1072; &#1074;&#1077;&#1073; &#1089;&#1072;&#1081;&#1090;&#1091;</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c6">5</span></p></td></tr><tr class="c0"><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c6">&#1058;&#1072;&#1088;&#1072;&#1089;&#1086;&#1074; &#1054;.</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c1"><span class="c6"></span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c1"><span class="c6"></span></p></td></tr><tr class="c0"><td class="c5" colspan="1" rowspan="1"><p class="c7"><span class="c6">&#1055;&#1072;&#1085;&#1095;&#1077;&#1085;&#1082;&#1086; &#1057;.</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c1"><span class="c6"></span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c1"><span class="c6"></span></p></td></tr></tbody></table>
 
 ### Звіт по задачах Владислава Паращенка
-<table class="waffle" cellspacing="0" cellpadding="0"><tbody><tr style='height:20px;'><td class="s0" dir="ltr">Задача</td><td class="s0" dir="ltr">Час початку</td><td class="s0 softmerge" dir="ltr"><div class="softmerge-inner" style="width: 245px; left: -1px;">Кінець виконання задачі</div></td><td class="s0" dir="ltr">Затрачено часу</td></tr><tr style='height:20px;'></tr><td class="s2" dir="ltr">Розробка веб сайту</td><td class="s3" dir="ltr">05.04.2020</td><td class="s3" dir="ltr">07.04.2020</td><td class="s2" dir="ltr">8 годин</td></tbody></table>
+
+ <table class="waffle" cellspacing="0" cellpadding="0">
+                            <tbody>
+                            <tr style="height:20px;">
+                                <td class="s0" dir="ltr">Задача</td>
+                                <td class="s0" dir="ltr">Час початку</td>
+                                <td class="s0 softmerge" dir="ltr">
+                                    <div class="softmerge-inner" style="width: 245px; left: -1px;">Кінець виконання задачі</div>
+                                </td>
+                                <td class="s0" dir="ltr">Затрачено часу</td>
+                            </tr>
+                            <td class="s2" dir="ltr">Розробка веб сайту</td>
+                            <td class="s3" dir="ltr">05.04.2020</td>
+                            <td class="s3" dir="ltr">07.04.2020</td>
+                            <td class="s2" dir="ltr">8 годин</td>
+                            </tbody>
+                        </table>
+  
