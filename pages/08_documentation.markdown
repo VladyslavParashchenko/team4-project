@@ -9,7 +9,7 @@ permalink: /documentation/
 
 ## Схема БД
 {: style="text-align: center;"}
-![database schema](/assets/img/schema.png)
+![database schema]({{site.site_url}}/assets/img/schema.png)
 
 
 ## Entities
